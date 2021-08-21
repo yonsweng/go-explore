@@ -20,7 +20,7 @@ Additional libraries for demo generation:
 - tqdm
 
 Additional libraries for robustification:
-- tensorflow=1.5.2 (or equivalent tensorflow-gpu)
+- tensorflow=1.15.2 (or equivalent tensorflow-gpu)
 - pandas
 - horovod
 - filelock
